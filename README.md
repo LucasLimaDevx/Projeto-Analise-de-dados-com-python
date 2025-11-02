@@ -13,6 +13,7 @@ O IMC afeta a chance de ter problemas cardíacos? Vamos avaliar usando essa lóg
 - Geração de um gráfico de boxplot para visualizar diferenças. Com base no gráfico, há um padrão evidente? (coloque o gráfico aqui)
 
 Medidas de posição obtidos:
+
 ![alt text](https://raw.githubusercontent.com/LucasLimaDevx/Projeto-Analise-de-dados-com-python/refs/heads/main/medias%20de%20cada%20grupo.png)
 
 Boxplot:
