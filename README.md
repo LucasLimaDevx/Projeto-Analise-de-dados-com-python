@@ -13,9 +13,10 @@ O IMC afeta a chance de ter problemas cardíacos? Vamos avaliar usando essa lóg
 - Geração de um gráfico de boxplot para visualizar diferenças. Com base no gráfico, há um padrão evidente? (coloque o gráfico aqui)
 
 Medidas de posição obtidos:
+![alt text](https://raw.githubusercontent.com/LucasLimaDevx/Projeto-Analise-de-dados-com-python/refs/heads/main/medias%20de%20cada%20grupo.png)
 
 Boxplot:
-
+![alt text](https://raw.githubusercontent.com/LucasLimaDevx/Projeto-Analise-de-dados-com-python/refs/heads/main/boxplot_distribui%C3%A7%C3%A3o_do_IMC_por_grupos.png)
 O boxplot gerando nos mostra que um grupo de pessoas com o IMC alto, tendem a ter mais problemas cardíacos do que o grupo com IMC baixo.
 
 ### 2.Para resolver, utilize o Python.
@@ -25,10 +26,6 @@ Como os IMCs estão distribuídos?
 - Crie um histograma da distribuição dos IMCs. Ele segue um formato simétrico ou há maior concentração em alguma faixa? (suba o histograma aqui)
 
 - Compare a distribuição com as categorias da OMS: Abaixo do peso, Normal, Sobrepeso, Obesidade.
-
-Boxplot:
-![alt text](https://raw.githubusercontent.com/LucasLimaDevx/Projeto-Analise-de-dados-com-python/refs/heads/main/boxplot_distribui%C3%A7%C3%A3o_do_IMC_por_grupos.png)
-O boxplot nos mostra que o grupo com IMC mais alto tem muito mais chance de ter problemas cardíacos que pessoas com IMC baixo
 
 Histograma:
 ![alt text](https://raw.githubusercontent.com/LucasLimaDevx/Projeto-Analise-de-dados-com-python/refs/heads/main/histograma_imc.png) 
