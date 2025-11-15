@@ -6,6 +6,7 @@ Este desafio busca aprofundar a análise dos dados gerados no [Simulacao-analise
 - Pandas
 - Numpy
 - Seaborn
+- Matplotlib
   
 ## Problema proposto e os resultados obtidos
 ### 1.Para resolver, utilize o Python.
