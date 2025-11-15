@@ -1,6 +1,12 @@
 # Projeto-Analise-de-dados-com-python
 Este desafio busca aprofundar a análise dos dados gerados no Projeto Multidisciplinar I, relacionando as variáveis IMC e problemas cardíacos com ferramentas estatísticas e de programação do curso de Forma Plena em Análise e Ciência de dados. 
 
+## Tecnologias usadas
+- Python
+- Pandas
+- Numpy
+- Seaborn
+  
 ## Problema proposto e os resultados obtidos
 ### 1.Para resolver, utilize o Python.
 
