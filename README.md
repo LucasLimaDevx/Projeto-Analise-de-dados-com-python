@@ -49,3 +49,7 @@ O melhor conjunto que pode representa um número com casas decimais é o conjunt
 
 ### Resultado
 O valor absoluto é útil para obter valores positivos no cálculo da váriância para posteriomente calculamos o desvio padrão, pois sem isso os valores iriam se anular e não conseguiriamos transformar os valores elevados ao quadrado para a somatoria total da diferença para cada valor e a média para depois tiramos a raíz quadrada em seguida obtemos o quanto os valores desviam da média.
+
+## Autor
+
+Lucas Lima Silva: https://www.linkedin.com/in/lucaslimaitz/
